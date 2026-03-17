@@ -4,7 +4,7 @@ The seafloor is a complex environment and it is challenging to conduct detailed 
 
 I was the project lead on SELQIE, overseeing the design of the physical system, electronic integration, code integration, and experimental validation. I worked primarily with the mechanical design team to improve upon the STARQ quadruped and make modifications for an underwater walking system. The platform is also capable of 3rd degree of freedom iterations. (More seen in platform section). I assisted in the electronic documentation and integration, as well as learned the code infrastructure in order to operate and debug SELQIE. 
 
-## 📄 Quick Links! 
+### 📄 Full Paper:
 
 View the ICRA paper <a href="https://ieeexplore.ieee.org/document/11127516">**HERE** </a>.
 

@@ -8,6 +8,9 @@ I was the project lead on SELQIE, overseeing the design of the physical system, 
 
 View the ICRA paper <a href="https://ieeexplore.ieee.org/document/11127516">**HERE** </a>.
 
+# 🎥 In Action! 
+
+See how SELQIE moves! Underwater obstacle course and real world environment (Wacissa River) videos located <a href="https://1drv.ms/f/c/8fdf2d1a8c790b06/IgDY-ApfERH_TpW1cBjkiztXAYM_40pI5uK0lfvsnyvQ5d0?e=2jZTr7" target="_blank">**HERE** </a>.
 
 ## 🤖 The Platform
 ![ss](https://github.com/AshETQ/SELQIE-Overview/blob/d4d2115b039e4b27617610ad009774c6898d3959/Images/OverviewNoPNU1.png)
@@ -19,17 +22,19 @@ SELQIE is able to walk underwater, swim midfluid, and transition between the two
 
 Further results can be seen in the paper, and the figures of results within in the Images folder here. 
 
-## 🎥 In Action! (Uploading soon)
+## 💻 Code
 
-See how SELQIE moves! Underwater obstacle course and real world environment (Wacissa River) videos located <a href="https://1drv.ms/f/c/8fdf2d1a8c790b06/IgDY-ApfERH_TpW1cBjkiztXAYM_40pI5uK0lfvsnyvQ5d0?e=2jZTr7" target="_blank">**HERE** </a>.
+SELQIE operating code is not currently available to public. ROS2 with joystick control and autonomy. Autonomy focus and infrastructure created by <a href="https://github.com/JTylerBoylan" target="_blank">**Jonathan Boylan** </a>. Maintained through a private directory on GitHub. Physical robot located at FSU STRIDe Lab. 
+
+_____________________________________________________________________________________________________________________________________________
 
 ## 💬 Presentation Mode
 
 This work was presented at ICRA 2025! 
 ![ss4](https://github.com/AshETQ/SELQIE-Overview/blob/d4d2115b039e4b27617610ad009774c6898d3959/Images/icrapresent.jpg)
 
+Slide deck coming soon~
 
-## 💻 Code
 
-SELQIE operating code is not currently available to public. ROS2 with joystick control and autonomy. Autonomy focus and infrastructure created by <a href="https://github.com/JTylerBoylan" target="_blank">**Jonathan Boylan** </a>. Maintained through a private directory on GitHub. Physical robot located at FSU STRIDe Lab. 
+
 
